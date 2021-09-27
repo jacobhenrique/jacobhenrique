@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'am Henrique Jacob! 
+⚡ I’m currently learning Python and Javascript
 
-<!--
-**jacobhenrique/jacobhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/jacobhenrique">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jacobhenrique&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobhenrique&layout=compact&langs_count=16&theme=gotham"/> 
+</div>
+<div style:"inline_block"> <br>
+  <img align="center" alt="henrique-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="henrique-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="henrique-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="henrique-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+</div><br>
+  <div>
+    <h3>Minhas redes sociais: </h3>
+    <a href="https://www.linkedin.com/in/henrique-jacob-carlos-magno-7911ab167" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="30" width="40" />
+    
+  </div>
+  
