@@ -14,7 +14,7 @@
 </div><br>
   <div>
     <h3>Minhas redes sociais: </h3>
-    <a href="www.linkedin.com/in/henriquejacobcarlosmagno" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/henriquejacobcarlosmagno" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="30" width="40" />
     
   </div>
   
